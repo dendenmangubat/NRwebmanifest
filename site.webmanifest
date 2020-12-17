@@ -1,0 +1,21 @@
+  
+{
+  "name": "Negosyo Republic",
+  "short_name": "",
+  "description": "Business.Financial.Opportunity.Self-Improvement,
+  "start_url": "https://negosyorepublic.blogspot.com/?m=1",
+  "background_color": "#fd4905",
+  "theme_color": "#fd4905",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-eUnkfm91q78/X9tk7-8KpFI/AAAAAAAAGJI/7zgiDH5PsP0cOK104rMxeTnJnkvKSYlUQCLcBGAsYHQ/s0/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },{
+      "src": "https://1.bp.blogspot.com/-e-zOa1tfokU/X9tnL96hT5I/AAAAAAAAGJY/4Vr3yJPJpxkRxxke7ReiWgpHngLAWXimQCLcBGAsYHQ/s320/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }],
+    {
+    "display": "standalone"
+    }
